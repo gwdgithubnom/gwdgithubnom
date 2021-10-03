@@ -45,5 +45,3 @@ I am currently mainly engaged in development and research related to data work<b
 <p align="center">
   <strong>For more information you can refer to my <a href="https://gwdgithubnom.github.io/">homepage</a></strong>  
 </p>
-
-# Contributors
