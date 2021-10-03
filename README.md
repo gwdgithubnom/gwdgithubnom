@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --
+-->
 
 This is my cv blog. gwdgithubnom.github.com
 
